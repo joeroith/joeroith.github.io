@@ -1,11 +1,43 @@
 ---
-title: "joeroith.github.io"
+title: "Joe Roith"
+toc: false
+about:
+  id: intro-heading
+  template: trestles
+  image: images/head_small.jpg
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:roith1@stolaf.edu
+    - icon: github
+      href: https://github.com/joeroith
 ---
 
-This is a Quarto website.
+:::{#intro-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Joe Roith
 
-```{r}
-1 + 1
-```
+Associate Professor of Practice - Statistics and Data Science <br>
+[MSCS Department](https://wp.stolaf.edu/mscs/) @ [St. Olaf College](https://wp.stolaf.edu/)
+
+### Education
+
+PhD in Statistics<br>
+2015 | North Dakota State University
+
+MS in Applied Statistics<br>
+2013 | North Dakota State University
+
+BS in Math with Statistics emphasis and minor in Economics<br>
+2008 | University of Wisconsin - La Crosse
+:::
+
+### Get in Touch
+
+**Email**: <a href='mailto:roith1@stolaf.edu'>roith1 at stolaf.edu</a>
+
+**Office**: Regents Hall of Mathematical Sciences, Room 408
+
+**Address**: 1520 St. Olaf Ave, Northfield, MN 55057
+
+**Phone**: 507-786-3681

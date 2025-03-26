@@ -1,0 +1,9 @@
+---
+title: "Courses"
+sidebar: false
+---
+
+### Spring 2024
+
+-   SDS 264: Data Science 2 [course website](https://joeroith.github.io/264_spring_2025/)
+-   SDS 250: Principles of Data Visualization
