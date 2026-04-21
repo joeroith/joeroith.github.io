@@ -7,7 +7,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-You can download this .qmd file from [here](https://github.com/joeroith/264_spring_2025/blob/main/02_maps.qmd).  Just hit the Download Raw File button.
+You can download this .qmd file from [here](https://github.com/joeroith/264_spring_2026/blob/main/02_maps.qmd).  Just hit the Download Raw File button.
 
 
 ```{r}
@@ -59,7 +59,7 @@ For example, let's consider state vaccination data from March 2021.
 
 
 
-vaccines <- read_csv("https://joeroith.github.io/264_spring_2025/Data/vacc_Mar21.csv") 
+vaccines <- read_csv("https://joeroith.github.io/264_spring_2026/Data/vacc_Mar21.csv") 
 
 vacc_mar13 <- vaccines |>
   filter(Date =="2021-03-13") |>
@@ -272,8 +272,8 @@ Let's try pop-up messages with a data set containing Airbnb listings in the Bost
 #| message: false
 #| include: false
 
-#airbnb.df <- read_csv("https://raw.githubusercontent.com/joeroith/264_spring_2025/main/Data/airbnbData.csv") 
-airbnb.df <- read_csv("https://joeroith.github.io/264_spring_2025/Data/airbnbData.csv") 
+#airbnb.df <- read_csv("https://raw.githubusercontent.com/joeroith/264_spring_2026/main/Data/airbnbData.csv") 
+airbnb.df <- read_csv("https://joeroith.github.io/264_spring_2026/Data/airbnbData.csv") 
 ```
 
 ```{r}
