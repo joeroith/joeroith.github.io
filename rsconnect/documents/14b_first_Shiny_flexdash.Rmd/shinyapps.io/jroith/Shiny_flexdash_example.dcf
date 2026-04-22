@@ -1,0 +1,12 @@
+name: Shiny_flexdash_example
+title: Shiny_flexdash_example
+username: jroith
+account: jroith
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17203515
+bundleId: 11890821
+url: https://jroith.shinyapps.io/Shiny_flexdash_example/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

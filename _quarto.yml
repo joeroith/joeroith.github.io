@@ -10,7 +10,7 @@ website:
         text: Home
       - courses.qmd
       - 02_maps.qmd
-      - 14b_first_Shiny_flexdash.Rmd
+      - embed_shiny.qmd
 
 format:
   html:

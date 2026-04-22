@@ -1,0 +1,12 @@
+name: sds_264_shiny_flexdashboard_example
+title: SDS 264: Shiny Flexdashboard Example
+username: roith1
+account: roith1
+server: rconnect.stolaf.edu
+hostUrl: https://rconnect.stolaf.edu/__api__
+appId: 1359
+bundleId: 4119
+url: https://rconnect.stolaf.edu/content/8d83c43d-59d2-443a-9b58-5889f20ef1a1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
